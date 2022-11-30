@@ -1,4 +1,4 @@
-# Alan E. Perez Hernandez - Lenguaje de Programación Python(532)
+
 
 #Cuadrado
 lado = int(input("Introduce el lado del cuadrado: "))

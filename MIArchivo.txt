@@ -1,0 +1,4 @@
+Alan Perez 1255341 
+Alan Perez 1255341 
+& C:/Users/windows/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/windows/Documents/lpp-2022-2-532-portafolio-Alanxalan/UNIDAD 1/Taller1.4.1/Tarea1.4.py" 1273987 
+& C:/Users/windows/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/windows/Documents/lpp-2022-2-532-portafolio-Alanxalan/UNIDAD 2/Taller 2.1.1/Taller 2.py" & C:/Users/windows/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/windows/Documents/lpp-2022-2-532-portafolio-Alanxalan/UNIDAD 2/Taller 2.2.1/Taller2.2.py" 
